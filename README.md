@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me  - by email dautovdmitry@gmail.com
 
 <!---
 dmitrydautov/dmitrydautov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
